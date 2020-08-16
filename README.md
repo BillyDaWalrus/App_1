@@ -1,3 +1,7 @@
-Started: Aug 16, 2020
+# Started: Aug 16, 2020
+[text for link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+**Bolded Text**
 
-# App_1
+![](./assets/splash.png)
+
+## App_1
